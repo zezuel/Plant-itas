@@ -1,0 +1,66 @@
+body{
+    background: #a8ff78;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #78ffd6, #a8ff78);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #78ffd6, #a8ff78); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background-image: url("Imagenes/arboles-forestales-naturaleza-verde-madera-luz-sol-fondos_87394-6046.jpg");
+}
+
+h2{
+    background: #1E9600;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #FF0000, #FFF200, #1E9600);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #FF0000, #FFF200, #1E9600); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+font-family: 'Anton', sans-serif;
+font-family: 'Libre Baskerville', serif;
+width: 33vw;
+position: relative;
+left: 35%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+button:hover{
+    background-color: red;
+}
+
+button{
+    display: inline-block;
+    border-radius: 30%;
+    position: relative;
+    block-size: 10px;
+    margin-top: 0%;
+    background-color: orangered;
+    font-family: 'Anton', sans-serif;
+font-family: 'Libre Baskerville', serif;
+
+}
+
+.uno{
+    width: 10vw;
+    height: 5vh;
+}
+
+.dos{
+    width: 10vw;
+    height: 5vh;
+}
+
+.tres{
+    width: 10vw;
+    height: 5vh;
+}
+
+div{
+    background: green;
+    width: 15vw;
+    height: 30vh;
+    position: relative;
+    left: 1150px;
+    margin-top: 28%;
+}
+
+h3{
+    color: white;
+}
